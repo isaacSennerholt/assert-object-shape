@@ -2,7 +2,7 @@
   "name": "assert-object-shape",
   "version": "1.0.0",
   "description": "Assert shape of plain Javascript object.",
-  "main": "./lib/assertObjectShape.js",
+  "main": "lib/assertObjectShape.js",
   "dependencies": {
     "is-plain-object": "^3.0.0"
   },
